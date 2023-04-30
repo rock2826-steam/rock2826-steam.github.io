@@ -4,10 +4,20 @@
         <title>大漂亮的官方网站 Blog</title>
         <link>https://rock2826-steam.github.io/blog</link>
         <description>大漂亮的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴歌]]></title>
+            <link>https://rock2826-steam.github.io/blog/happy</link>
+            <guid>https://rock2826-steam.github.io/blog/happy</guid>
+            <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错]]></description>
+            <content:encoded><![CDATA[<p>今天天气真不错，我们大家来上课，老师讲的真不错，真的真的很不错</p>]]></content:encoded>
+            <category>随笔记</category>
+            <category>歌曲</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://rock2826-steam.github.io/blog/welcome</link>
